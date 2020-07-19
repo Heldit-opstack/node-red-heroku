@@ -16,5 +16,5 @@
       "value": ""
     }
   },
-  "addons": [ "mongolab" ]
+  "addons": [ "mongolab:shared-cluster-2" ]
 }
